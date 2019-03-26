@@ -1,5 +1,4 @@
-USTH ICT 2019 Distributed Systems
-=====================================
+# USTH ICT 2019 Distributed Systems
 
 *Groups* are expected to:
 
@@ -9,7 +8,6 @@ USTH ICT 2019 Distributed Systems
 * Use pull request for collaborations!
 
 # Group Info
-=======================
 
 * Le Nguyen Khoi - USTHBI7-086
 * Nguyen Xuan Bach - USTHBI7-021
