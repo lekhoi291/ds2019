@@ -8,7 +8,7 @@ USTH ICT 2019 Distributed Systems
 * Push your commits regularly, with proper commit messages
 * Use pull request for collaborations!
 
-#Group Info
+# Group Info
 =======================
 
 * Le Nguyen Khoi - USTHBI7-086
@@ -17,4 +17,4 @@ USTH ICT 2019 Distributed Systems
 * Doan Thanh Huy - USTHBI7-083
 
 
-#Group Project: Fault-tolerant Key-Value server/client (Redis clone)
+## Group Project: Fault-tolerant Key-Value server/client (Redis clone)
