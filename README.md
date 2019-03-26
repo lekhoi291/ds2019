@@ -11,6 +11,7 @@ USTH ICT 2019 Distributed Systems
 Group Info
 =======================
 
-* Name 1 (ID1)
-* Name 2 (ID2)
-
+* Le Nguyen Khoi - USTHBI7-086
+* Nguyen Xuan Bach - USTHBI7-021
+* Le Minh Anh - USTHBI7-007
+* Doan Thanh Huy - USTHBI7-083
